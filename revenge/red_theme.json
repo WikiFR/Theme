@@ -1,0 +1,126 @@
+{
+    "name": "Revenge Crimson",
+    "description": "Un thème sombre épuré aux accents rouge cramoisi pour l'application Revenge / Vendetta. Mode sombre requis.",
+    "authors": [
+        {
+            "name": "AI Assistant",
+            "id": "0"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#ff4d5a"
+        ],
+        "TEXT_NORMAL": [
+            "#f0f0f2"
+        ],
+        "TEXT_MUTED": [
+            "#8c8c93"
+        ],
+        "TEXT_LINK": [
+            "#e63946"
+        ],
+        "TEXT_DANGER": [
+            "#ff3344"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#b5b5bc"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#4e4e54"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#0a0a0b"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#101012"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#141417"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#070708"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#9a131c"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#141417"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#0a0a0b"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#101012"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#141417"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#e639461e"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#222226"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#9a131c"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#0a0a0b"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#101012"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "transparent"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#6b6b75"
+        ],
+        "CHAT_BACKGROUND": [
+            "#0a0a0b"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#8c8c93"
+        ],
+        "CHANNEL_ICON": [
+            "#b5b5bc"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#f0f0f2",
+        "PRIMARY_300": "#b5b5bc",
+        "PRIMARY_360": "#9a131c",
+        "PRIMARY_500": "#101012",
+        "PRIMARY_600": "#0a0a0b",
+        "PRIMARY_630": "#0a0a0b",
+        "PRIMARY_660": "#070708",
+        "PRIMARY_700": "#070708",
+        "PRIMARY_800": "#050506",
+        "BRAND_260": "#ff4d5a",
+        "BRAND_360": "#e63946",
+        "BRAND_500": "#b31b26",
+        "BRAND_560": "#9a131c",
+        "WHITE_500": "#ffffff",
+        "BLUE_345": "#e63946",
+        "YELLOW_300": "#ffcc00",
+        "ORANGE_345": "#ff6600",
+        "GREEN_345": "#2ecc71",
+        "GREEN_360": "#27ae60",
+        "RED_560" : "#ff3344",
+        "RED_400": "#ff4d5a"
+    },
+    "spec": 2,
+    "background": {
+        "url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1080",
+        "alpha": 0.45,
+        "color": "#0a0a0b"
+    }
+}
