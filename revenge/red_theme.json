@@ -1,6 +1,6 @@
 {
-    "name": "Revenge Crimson",
-    "description": "Un thème sombre épuré aux accents rouge cramoisi pour l'application Revenge / Vendetta. Mode sombre requis.",
+    "name": "Osaka Pixel Art",
+    "description": "Un thème rétro-lofi inspiré de l'esthétique nocturne d'Osaka, avec votre arrière-plan pixel art animé personnalisé.",
     "authors": [
         {
             "name": "AI Assistant",
@@ -12,115 +12,115 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#ff4d5a"
+            "#ff79c6"
         ],
         "TEXT_NORMAL": [
-            "#f0f0f2"
+            "#e2e4f0"
         ],
         "TEXT_MUTED": [
-            "#8c8c93"
+            "#797c93"
         ],
         "TEXT_LINK": [
-            "#e63946"
+            "#8be9fd"
         ],
         "TEXT_DANGER": [
-            "#ff3344"
+            "#ff5555"
         ],
         "INTERACTIVE_NORMAL": [
-            "#b5b5bc"
+            "#a0a4c0"
         ],
         "INTERACTIVE_ACTIVE": [
             "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
-            "#4e4e54"
+            "#4e5058"
         ],
         "BACKGROUND_PRIMARY": [
-            "#0a0a0b"
+            "#0a0b10"
         ],
         "BACKGROUND_SECONDARY": [
-            "#101012"
+            "#10111a"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#141417"
+            "#141522"
         ],
         "BACKGROUND_TERTIARY": [
-            "#070708"
+            "#06070a"
         ],
         "BACKGROUND_ACCENT": [
-            "#9a131c"
+            "#bd93f9"
         ],
         "BACKGROUND_FLOATING": [
-            "#141417"
+            "#141522"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#0a0a0b"
+            "#0a0b10"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#101012"
+            "#10111a"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#141417"
+            "#141522"
         ],
         "BACKGROUND_MENTIONED": [
-            "#e639461e"
+            "#ff79c61e"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#222226"
+            "#222336"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#9a131c"
+            "#bd93f940"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#0a0a0b"
+            "#0a0b10"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#101012"
+            "#10111a"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
             "transparent"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#6b6b75"
+            "#5c5e75"
         ],
         "CHAT_BACKGROUND": [
-            "#0a0a0b"
+            "#0a0b10"
         ],
         "CHANNELS_DEFAULT": [
-            "#8c8c93"
+            "#797c93"
         ],
         "CHANNEL_ICON": [
-            "#b5b5bc"
+            "#a0a4c0"
         ]
     },
     "rawColors": {
         "PRIMARY_100": "#ffffff",
-        "PRIMARY_200": "#f0f0f2",
-        "PRIMARY_300": "#b5b5bc",
-        "PRIMARY_360": "#9a131c",
-        "PRIMARY_500": "#101012",
-        "PRIMARY_600": "#0a0a0b",
-        "PRIMARY_630": "#0a0a0b",
-        "PRIMARY_660": "#070708",
-        "PRIMARY_700": "#070708",
-        "PRIMARY_800": "#050506",
-        "BRAND_260": "#ff4d5a",
-        "BRAND_360": "#e63946",
-        "BRAND_500": "#b31b26",
-        "BRAND_560": "#9a131c",
+        "PRIMARY_200": "#e2e4f0",
+        "PRIMARY_300": "#a0a4c0",
+        "PRIMARY_360": "#bd93f9",
+        "PRIMARY_500": "#10111a",
+        "PRIMARY_600": "#0a0b10",
+        "PRIMARY_630": "#0a0b10",
+        "PRIMARY_660": "#06070a",
+        "PRIMARY_700": "#06070a",
+        "PRIMARY_800": "#040507",
+        "BRAND_260": "#ff79c6",
+        "BRAND_360": "#bd93f9",
+        "BRAND_500": "#bd93f9",
+        "BRAND_560": "#6272a4",
         "WHITE_500": "#ffffff",
-        "BLUE_345": "#e63946",
-        "YELLOW_300": "#ffcc00",
-        "ORANGE_345": "#ff6600",
-        "GREEN_345": "#2ecc71",
-        "GREEN_360": "#27ae60",
-        "RED_560" : "#ff3344",
-        "RED_400": "#ff4d5a"
+        "BLUE_345": "#8be9fd",
+        "YELLOW_300": "#f1fa8c",
+        "ORANGE_345": "#ffb86c",
+        "GREEN_345": "#50fa7b",
+        "GREEN_360": "#50fa7b",
+        "RED_560": "#ff5555",
+        "RED_400": "#ff5555"
     },
     "spec": 2,
     "background": {
-        "url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1080",
+        "url": "https://files.catbox.moe/v5thcl.gif",
         "alpha": 0.45,
-        "color": "#0a0a0b"
+        "color": "#0a0b10"
     }
 }
